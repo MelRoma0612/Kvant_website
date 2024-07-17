@@ -1,0 +1,465 @@
+.frame-child {
+  position: absolute;
+  top: 1173.2px;
+  left: -60.7px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    rgba(0, 0, 0, 0.83);
+  width: 2054.5px;
+  height: 2435.2px;
+  mix-blend-mode: normal;
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 1156.9px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1928.6px;
+  height: 32.6px;
+}
+.frame-inner {
+  top: -134.8px;
+  left: -235.5px;
+  background-color: var(--color-black);
+  width: 2350.7px;
+  height: 1312.4px;
+}
+.frame-child1,
+.rectangle-div {
+  position: absolute;
+  top: 3624.6px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1928.6px;
+  height: 32.6px;
+}
+.frame-child1 {
+  top: 6587.1px;
+  left: -291.8px;
+  background-color: var(--color-black);
+  width: 2350.7px;
+  height: 2978.8px;
+}
+.div {
+  position: absolute;
+  top: 331.8px;
+  left: 124.4px;
+  font-size: 106.7px;
+  font-family: var(--font-shentox);
+  display: inline-block;
+  width: 1370.2px;
+  height: 248.9px;
+}
+.kvant4-1-icon {
+  position: absolute;
+  top: 23.7px;
+  left: 41.5px;
+  width: 103.7px;
+  height: 103.7px;
+  object-fit: cover;
+}
+.div1 {
+  top: 53.3px;
+  left: 145.2px;
+  font-family: var(--font-shentox);
+  display: inline-block;
+  width: 152.6px;
+  height: 62.2px;
+}
+.div1,
+.div2,
+.message {
+  position: absolute;
+}
+.div2 {
+  top: 709.5px;
+  left: 213.3px;
+  font-size: var(--font-size-34xl-3);
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 274px;
+  height: 56.3px;
+}
+.message {
+  top: 1256.1px;
+  left: 1199.8px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslateblue);
+  width: 638.4px;
+  height: 122.9px;
+}
+.message-line-icon,
+.message1 {
+  position: absolute;
+  top: 1350.3px;
+  left: 1784.9px;
+  border-radius: 7.41px;
+  width: 77.8px;
+  height: 28.8px;
+}
+.message1 {
+  top: 2655.9px;
+  left: 1176.1px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslateblue);
+  width: 638.4px;
+  height: 250.3px;
+}
+.message-line-icon1,
+.message2 {
+  position: absolute;
+  top: 2877.4px;
+  left: 1761.2px;
+  border-radius: 7.41px;
+  width: 77.8px;
+  height: 28.8px;
+}
+.message2 {
+  top: 1876.7px;
+  left: 1188px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslateblue);
+  width: 638.4px;
+  height: 177.8px;
+}
+.message-line-icon2,
+.message3 {
+  position: absolute;
+  top: 2025.7px;
+  left: 1773.1px;
+  border-radius: 7.41px;
+  width: 77.8px;
+  height: 28.8px;
+}
+.message3 {
+  top: 1479.8px;
+  left: 1531.6px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslategray);
+  width: 1453.1px;
+  height: 280px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.message-line-icon3 {
+  position: absolute;
+  top: 1710.8px;
+  left: 23.7px;
+  border-radius: 7.41px;
+  width: 173.3px;
+  height: 48.9px;
+  object-fit: contain;
+}
+.message4 {
+  position: absolute;
+  top: 2152.3px;
+  left: 1531.6px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslategray);
+  width: 1453.1px;
+  height: 379.2px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.message-line-icon4 {
+  position: absolute;
+  top: 2482.6px;
+  left: 23.7px;
+  border-radius: 7.41px;
+  width: 173.3px;
+  height: 48.9px;
+  object-fit: contain;
+}
+.message5 {
+  position: absolute;
+  top: 3030.6px;
+  left: 1531.6px;
+  border-radius: 29.63px;
+  background-color: var(--color-darkslategray);
+  width: 1453.1px;
+  height: 198.5px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.message-line-icon5 {
+  position: absolute;
+  top: 3180.2px;
+  left: 23.7px;
+  border-radius: 7.41px;
+  width: 173.3px;
+  height: 48.9px;
+  object-fit: contain;
+}
+.div3 {
+  top: 1279.8px;
+  left: 1091.7px;
+  font-weight: 500;
+  text-align: center;
+  width: 771.7px;
+  height: 75.5px;
+}
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  display: inline-block;
+}
+.div4 {
+  top: 1513.8px;
+  left: 112.6px;
+  font-weight: 500;
+  width: 1447.2px;
+  height: 248.9px;
+}
+.div5 {
+  top: 1897px;
+  left: 1237px;
+  width: 548px;
+  height: 117px;
+}
+.div5,
+.div6,
+.vpn {
+  font-weight: 500;
+}
+.vpn {
+  position: absolute;
+  top: 2176px;
+  left: 112.6px;
+  display: inline-block;
+  width: 1370.2px;
+  height: 186.6px;
+}
+.div6 {
+  top: 2685.5px;
+  left: 1219.1px;
+  width: 632.5px;
+  height: 143.7px;
+}
+.div6,
+.div7,
+.telegram {
+  position: absolute;
+  display: inline-block;
+}
+.telegram {
+  top: 3060.3px;
+  left: 112.6px;
+  font-weight: 500;
+  width: 1374.6px;
+  height: 238.5px;
+}
+.div7 {
+  top: 5719.1px;
+  left: 644.3px;
+  font-size: 71.1px;
+  font-family: var(--font-shentox);
+  width: 607.3px;
+  height: 82.9px;
+}
+.email-kvantgmailcom,
+.telegram-tmekvant-support {
+  position: absolute;
+  top: 5917.6px;
+  left: 93.3px;
+  font-size: var(--font-size-40xl-3);
+  font-weight: 500;
+  display: inline-block;
+  width: 1580.5px;
+  height: 124.4px;
+}
+.email-kvantgmailcom {
+  top: 6108.7px;
+  height: 112.6px;
+}
+.kvant4-2-icon {
+  position: absolute;
+  top: 6384.2px;
+  left: 43px;
+  width: 103.7px;
+  height: 103.7px;
+  object-fit: cover;
+}
+.div8,
+.div9 {
+  position: absolute;
+  top: 6413.8px;
+  left: 146.6px;
+  font-family: var(--font-shentox);
+  display: inline-block;
+  width: 152.6px;
+  height: 62.2px;
+}
+.div9 {
+  left: 1718.3px;
+  width: 122.9px;
+  height: 71.1px;
+}
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  top: 6336.8px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1896px;
+  height: 3px;
+}
+.frame-child3 {
+  top: 5671.7px;
+}
+.component-4-child {
+  position: absolute;
+  height: 136%;
+  width: 114.89%;
+  top: -8.01%;
+  right: -7.62%;
+  bottom: -27.99%;
+  left: -7.27%;
+  background-color: var(--color-gainsboro);
+}
+.div10 {
+  position: absolute;
+  height: 50.68%;
+  width: 67.27%;
+  top: 24.03%;
+  left: 16.35%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-4 {
+  position: absolute;
+  top: 681.4px;
+  left: 146.6px;
+  border-radius: 29.63px;
+  background-color: var(--color-white);
+  width: 438.5px;
+  height: 111.1px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-34xl-3);
+  color: var(--color-black);
+}
+.component-6-child {
+  position: absolute;
+  top: -25.2px;
+  left: -28.1px;
+  background-color: var(--color-gainsboro);
+  width: 657.7px;
+  height: 204.4px;
+}
+.div11 {
+  position: absolute;
+  top: 39.5px;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 599.9px;
+}
+.component-6 {
+  position: absolute;
+  top: 3356.5px;
+  left: 669.5px;
+  border-radius: 29.63px;
+  background-color: var(--color-white);
+  width: 592.5px;
+  height: 161.5px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-40xl-3);
+  color: var(--color-black);
+}
+.div12 {
+  position: absolute;
+  top: 38.5px;
+  left: 57.8px;
+  display: flex;
+  align-items: center;
+  width: 300.7px;
+  height: 40px;
+}
+.component-8 {
+  position: absolute;
+  top: 23.7px;
+  left: 1133.2px;
+  background-color: var(--color-gray-300);
+  width: 417.7px;
+  height: 115.5px;
+  overflow: hidden;
+  font-size: var(--font-size-16xl-6);
+  font-family: var(--font-shentox);
+}
+.div13 {
+  position: absolute;
+  top: 38.5px;
+  left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100.7px;
+  height: 28.1px;
+}
+.component-10 {
+  position: absolute;
+  top: 31.1px;
+  left: 1500.5px;
+  background-color: var(--color-gray-300);
+  width: 180.7px;
+  height: 103.7px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl-6);
+  font-family: var(--font-shentox);
+}
+.component-101,
+.div14 {
+  position: absolute;
+  top: 31.1px;
+  left: 29.6px;
+}
+.component-101 {
+  top: 32.6px;
+  left: 1678.3px;
+  background-color: var(--color-gray-300);
+  width: 151.1px;
+  height: 103.7px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl-6);
+  font-family: var(--font-shentox);
+}
+.p {
+  margin: 0;
+}
+.gemini-15-pro {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.gemini-15-pro-container {
+  position: absolute;
+  top: 3747.6px;
+  left: 192.6px;
+  font-size: 74.1px;
+  font-family: var(--font-shentox);
+  display: inline-block;
+  width: 1555.3px;
+  height: 1879.7px;
+}
+.rectangle-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 6517.5px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-28xl-4);
+  color: var(--color-white);
+  font-family: var(--font-victor-mono);
+}
